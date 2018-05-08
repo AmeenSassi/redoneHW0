@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<movies
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://sample"
+        xsi:schemaLocation="http://sample MovieActors.xsd">
+
+    <movie>
+        <Title>The Terminal</Title>
+        <Year>1994</Year>
+        <Genre>Drama</Genre>
+
+        <actors>
+            <actor>
+                <Name>Tom Hanks</Name>
+                <DateOfBirth>1956-08-09</DateOfBirth>
+            </actor>
+
+            <actor>
+                <Name>Catherine Kenner</Name>
+                <DateOfBirth>1959-03-23</DateOfBirth>
+            </actor>
+        </actors>
+    </movie>
+
+    <movie>
+        <Title>Captain Phillips</Title>
+        <Year>2013</Year>
+        <Genre>Thriller</Genre>
+
+        <actors>
+            <actor>
+                <Name>Tom Hanks</Name>
+                <DateOfBirth>1956-08-09</DateOfBirth>
+            </actor>
+        </actors>
+    </movie>
+</movies>
